@@ -1,0 +1,6 @@
+{
+  "name": "PH VISION LTD — কোম্পানি ম্যানেজমেন্ট সিস্টেম",
+  "description": "PH VISION LTD-এর জন্য একটি আধুনিক এবং পূর্ণাঙ্গ বাংলা কৃষি-রাসায়নিক এবং কোম্পানি ম্যানেজমেন্ট সিস্টেম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

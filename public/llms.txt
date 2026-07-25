@@ -1,0 +1,12 @@
+# PH VISION LTD — কোম্পানি ম্যানেজমেন্ট সিস্টেম
+PH VISION LTD is a leading agro-chemical company operating in Bangladesh. This enterprise web application manages:
+- Dealers, Credit limits, Dues & Ledgers
+- Field Officers, Territories, Areas & Employee Records
+- Products, Batches, Expiry Tracking & Categories
+- Multi-Godown Inventory & Stock Transfers
+- Raw Materials, Suppliers & Production Tracking
+- Sales Invoices with A4 Printing
+- Accounts & Expenses Tracking
+- Area-wise Collection & Low Stock Alerts
+Language: Bengali (বাংলা)
+Developer Credit: রেদওয়ান করিম রাহিব
